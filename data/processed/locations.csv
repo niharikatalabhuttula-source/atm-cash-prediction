@@ -1,0 +1,51 @@
+locationid,location_name,City,n_atms
+LA-001,Wisabi Bank HQ,Lagos,7
+LA-002,Victoria Island ATM,Lagos,3
+LA-003,Ikeja ATM,Lagos,3
+LA-004,Lekki ATM,Lagos,3
+LA-005,Surulere ATM,Lagos,3
+LA-006,Festac ATM,Lagos,3
+LA-007,Apapa ATM,Lagos,3
+LA-008,Ikorodu ATM,Lagos,3
+LA-009,Yaba ATM,Lagos,3
+LA-010,Maryland ATM,Lagos,3
+LA-011,Ajah ATM,Lagos,3
+LA-012,Oshodi ATM,Lagos,3
+LA-013,Ogba ATM,Lagos,3
+LA-014,Ikoyi ATM,Lagos,3
+LA-015,Agege ATM,Lagos,3
+KN-001,Wisabi Bank Kano Branch ATM,Kano,5
+KN-002,Sabon Gari ATM,Kano,2
+KN-003,Fagge ATM,Kano,2
+KN-004,Nassarawa ATM,Kano,2
+KN-005,Kofar Ruwa ATM,Kano,2
+KN-006,Tarauni ATM,Kano,2
+KN-007,Dala ATM,Kano,2
+KN-008,Gwale ATM,Kano,2
+KN-009,Ungogo ATM,Kano,2
+KN-010,Warawa ATM,Kano,2
+FC-001,FCT Abuja ATM,Abuja,5
+FC-002,Kubwa ATM,Abuja,2
+FC-003,Garki ATM,Abuja,2
+FC-004,Maitama ATM,Abuja,2
+FC-005,Wuse ATM,Abuja,2
+FC-006,Lugbe ATM,Abuja,2
+EN-001,Enugu ATM,Enugu,5
+EN-002,Nsukka ATM,Nsukka,2
+EN-003,Agbani ATM,Enugu,2
+EN-004,Abakpa ATM,Enugu,2
+EN-005,Awgu ATM,Awgu,2
+EN-006,Oji River ATM,Oji,2
+EN-007,Udi ATM,Udi,2
+EN-008,Nkanu ATM,Nkanu,2
+EN-009,Emene ATM,Enugu,2
+RI-001,Port Harcourt ATM,Port Harcourt,5
+RI-002,Bonny ATM,Bonny,2
+RI-003,Okrika ATM,Okrika,2
+RI-004,Obio-Akpor ATM,Obio-Akpor,2
+RI-005,Eleme ATM,Eleme,2
+RI-006,Emohua ATM,Emohua,2
+RI-007,Gokana ATM,Gokana,2
+RI-008,Oyigbo ATM,Oyigbo,2
+RI-009,Ahoada ATM,Ahoada,2
+RI-010,Opobo ATM,Opobo,2
